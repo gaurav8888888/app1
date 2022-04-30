@@ -5,8 +5,8 @@ import base64
 #import matplotlib.pyplot as plt
 
 
-bat = pd.read_csv("C:\\Users\\hp\\Downloads\\bat - Sheet1.csv")
-bowl = pd.read_csv("C:\\Users\\hp\\Downloads\\bowl - Sheet1.csv")
+bat = pd.read_csv("bat - Sheet1.csv")
+bowl = pd.read_csv("bowl - Sheet1.csv")
 point = {"6s": 2, "50": 8, "100": 16, "200": 32, "Wkts": 25, "4W": 8, "5W": 16, "10W": 32}
 
 match_types = ['IPL', 'ODI', 'T20', 'Test']
