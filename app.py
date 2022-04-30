@@ -1,4 +1,4 @@
-from turtle import goto
+#from turtle import goto
 import streamlit as st
 import pandas as pd
 import base64
