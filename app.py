@@ -2,8 +2,8 @@
 import streamlit as st
 import pandas as pd
 import base64
-#import matplotlib.pyplot as plt
-import plotly.graph_objects as go
+import matplotlib.pyplot
+import plotly.graph_objects 
 
 
 bat = pd.read_csv("bat - Sheet1.csv")
