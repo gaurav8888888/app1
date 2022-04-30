@@ -4,7 +4,6 @@ import pandas as pd
 import base64
 import matplotlib.pyplot as plt
 
-# import plotly.graph_objects as go
 
 bat = pd.read_csv("C:\\Users\\hp\\Downloads\\bat - Sheet1.csv")
 bowl = pd.read_csv("C:\\Users\\hp\\Downloads\\bowl - Sheet1.csv")
