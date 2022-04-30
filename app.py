@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import base64
-from matplotlib.pyplot import plt
+from matplotlib import pyplot
 
 
 bat = pd.read_csv("bat - Sheet1.csv")
